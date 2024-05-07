@@ -1,0 +1,69 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.nav_bg{
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(90deg, rgb(123 31 170) 35%, rgba(0, 61, 255, 1) 100%);
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 112px;
+    height: auto;
+    filter: invert(100);
+}
+.header_items{
+    display: flex;
+    align-items: center;
+}
+.header_text{
+    text-decoration: none;
+    margin: 0px -80px;
+    color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    margin-left: 120px;
+    padding: -10px;
+    margin-bottom: 10px;
+}
+img{
+    width: 110px;
+    height: 90px;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 2px;
+}
+.talkus{
+    margin-left: 450px;
+    background-color: rgb(102, 128, 211);
+    border-radius: 5px;
+    display: flex;
+    align-items: end;
+}
+.talk_btn{
+    text-decoration: none;
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 12px;
+
+}
+.nav_bottam{
+    width: 100%;
+    height: auto;
+}
+.big_img{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
